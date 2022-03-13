@@ -37,3 +37,9 @@ django-admin startapp drf_tutorial
 ```sh
 python manage.py runserver 0.0.0.0:80
 ```
+
+## Django Admin Dashboard url
+
+```url
+http://127.0.0.1:8083/admin/
+```
