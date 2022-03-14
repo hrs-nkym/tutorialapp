@@ -43,3 +43,9 @@ python manage.py runserver 0.0.0.0:80
 ```url
 http://127.0.0.1:8083/admin/
 ```
+
+## Django Admin API Dashboard url
+
+```url
+http://127.0.0.1:8083/calendar/api/holiday/
+```
